@@ -2,8 +2,8 @@
 import { galleryItems } from './gallery-items.js';
 // Change code below this line
 
-import SimpleLightbox from '../../node_modules/simplelightbox/src/simple-lightbox.js';
-import '../../node_modules/simplelightbox/dist/simple-lightbox.min.css';
+import SimpleLightbox from 'simplelightbox';
+import 'simplelightbox/dist/simple-lightbox.min.css';
 console.log(galleryItems);
 
 const gallery = document.querySelector('.gallery');
