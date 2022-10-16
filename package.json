@@ -23,7 +23,7 @@
     "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
     "npm": "^8.19.2",
-    "simplelightbox": "^2.10.3",
+    "simplelightbox": "^2.10.4",
     "vimeo": "^2.1.1"
   },
   "devDependencies": {
