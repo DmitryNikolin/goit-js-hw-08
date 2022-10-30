@@ -24,6 +24,7 @@ function onSetForm(event) {
 
 function fillFormData() {
   const inputData = localStorage.getItem(STORAGE_KEY);
+  // console.log(inputData);
   if (inputData) {
     formData = JSON.parse(localStorage.getItem(STORAGE_KEY));
     if (formData.email) {
